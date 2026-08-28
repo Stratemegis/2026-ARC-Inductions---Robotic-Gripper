@@ -7,7 +7,10 @@ Main Deliverables are:
 > Gripper_Motion.mp4 
 > And this .txt file
 
-Initially, I had mistakenly opened 'Part Design' and Started Working. I hadn't realised that the Tutorial was in a 'Hybrid' Design. Which is why i have attached one main assembly (in .f3z) and several individual components (in .f3d). The timelines at the bottom may also be f'ed for some components (i believe it wont cause any problems).
+Initially, I had mistakenly opened 'Part Design' and Started Working.
+I hadn't realised that the Tutorial was in a 'Hybrid' Design. 
+Which is why i have attached one main assembly (in .f3z) and several individual components (in .f3d).
+The timelines at the bottom may also be f'ed for some components (i believe it wont cause any problems).
 
 After completing the Main tutorial, I went ahead and made the following additions:
 1. Different style teeth for the gripper.
